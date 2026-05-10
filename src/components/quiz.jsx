@@ -9,14 +9,59 @@ const Quiz = () => {
             answer: "Jakarta",
         },
         {
-            question: "What country is Mount Everest in?",
-            options: ["Nepal", "China", "India", "Bhutan"],
-            answer: "Nepal",
+            question: "What mountain range is Mount Everest in?",
+            options: ["The Rockies", "The Andes", "The Himalayas", "The Alps"],
+            answer: "The Himalayas",
         },
         {
             question: "How many continents are there in the world?",
             options: ["8", "7", "6", "5"],
             answer: "7",
+        },
+        {
+            question: "What is the capital of Australia?",
+            options: ["Canberra", "Sydney", "Melbourne", "Perth"],
+            answer: "Canberra",
+        },
+        {
+            question: "How many oceans are there?",
+            options: ["7", "3", "4", "5"],
+            answer: "5",
+        },
+        {
+            question: "What country is the Stonehenge found in?",
+            options: ["France", "England", "Scotland", "Austria"],
+            answer: "England",
+        },
+        {
+            question: "What is the capital of Kenya?",
+            options: ["Kampala", "Nairobi", "Cape Town", "Freetown"],
+            answer: "Nairobi",
+        },
+        {
+            question: "What is the most populous city in China by administrative area?",
+            options: ["Guangzhou", "Chongqing", "Beijing", "Shanghai"],
+            answer: "Chongqing",
+        },
+        {
+            question: "What is the primary language of Brazil?",
+            options: ["Spanish", "Portuguese", "English", "Brazilian"],
+            answer: "Portuguese",
+        },
+        {
+            question: "The Amazon River is the longest river in the world.",
+            options: ["True", "False"],
+            answer: "False",
+        },
+        {
+            question: "Kazakhstan only has one official language, Russian.",
+            options: ["True", "False"],
+            answer: "False",
+        },
+        {
+            question: "Japan experiences the most earthquakes out of all countries in the world.",
+            options: ["True", "False"],
+            answer: "True",
         },
     ];
 
