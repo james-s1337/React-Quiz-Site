@@ -1,5 +1,6 @@
 {
   "name": "react-quiz",
+  "homepage": "https://james-s1337.github.io/React-Quiz-Site/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
   },
